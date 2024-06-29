@@ -16,8 +16,8 @@ To run the IPL Win Predictor locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/ipl-win-predictor.git
-    cd ipl-win-predictor
+    git clone https://github.com/yourusername/IPL-win-predictor.git
+    cd IPL-win-predictor
     ```
 
 2. **Create a virtual environment**:
